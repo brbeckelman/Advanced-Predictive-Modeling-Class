@@ -1,0 +1,10 @@
+name: Q6_shinyApp
+account: brbeckelman
+server: shinyapps.io
+appId: 129590
+bundleId: 576957
+url: https://brbeckelman.shinyapps.io/Q6_shinyApp/
+when: 1475635710.83915
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: enduse_imports.xlsx|Hitters.csv|HW2-apm382.ipynb|kc_house_data.csv|Q6_shinyApp.Rmd|shiny1.png|shiny2.png
